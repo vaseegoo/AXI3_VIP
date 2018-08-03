@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="axi_sim_auto_pc_0_synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/axi_sim_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="axi_sim_axi_bram_ctrl_0_0_synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/axi_sim_axi_bram_ctrl_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="axi_sim_axi_vip_0_0_synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/axi_sim_axi_vip_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="axi_sim_xbar_0_synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/axi_sim_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="axi_sim_blk_mem_gen_0_0_synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/axi_sim_blk_mem_gen_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="axi_sim_sim_clk_gen_0_0_synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/axi_sim_sim_clk_gen_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="axi_sim_auto_pc_0_synth_1"/>
+		<Parent Id="axi_sim_axi_bram_ctrl_0_0_synth_1"/>
+		<Parent Id="axi_sim_axi_vip_0_0_synth_1"/>
+		<Parent Id="axi_sim_xbar_0_synth_1"/>
+		<Parent Id="axi_sim_blk_mem_gen_0_0_synth_1"/>
+		<Parent Id="axi_sim_sim_clk_gen_0_0_synth_1"/>
+	</Run>
+</Runs>
+

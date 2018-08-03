@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Aug  3 22:29:00 2018
+# Process ID: 13712
+# Current directory: D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4304 D:\A_Design\FPGA_design\Vivado\SATA_0601\axi_vip\axi_vip.xpr
+# Log file: D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/vivado.log
+# Journal file: D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/A_Design/FPGA_design/Vivado/SATA_0601/axi_vip/axi_vip.xpr
